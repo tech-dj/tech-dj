@@ -1,3 +1,4 @@
+|[logo](https://github.com/tech-dj/tech-dj/blob/main/Dhiraj%20Joshi.jpg)
 <h1 align="center">Hey 👋 there, I'm Dhiraj</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
